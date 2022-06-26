@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "4985c86b-0d9b-4cbd-9196-685ebef74a1f",
+      "value": "Suraj",
+      "status": false
+    },
+    {
+      "id": "f00bb432-ea71-4969-b0fb-9c7970ec6a31",
+      "value": "Ajit",
+      "status": false
+    },
+    {
+      "id": "3fffbb90-44b0-4004-93aa-28fa9d2fecc6",
+      "value": "Ganesh",
+      "status": false
+    }
+  ]
+}
